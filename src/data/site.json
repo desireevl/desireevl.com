@@ -1,0 +1,42 @@
+{
+  "name": "Desiree VL",
+  "description": "",
+  "url": "desireevl.com",
+  "author": {
+    "name": "Desiree",
+    "email": "",
+    "twitterHandle": ""
+  },
+  "defaultSocialImage": "/images/default-social-image.png",
+  "headerLinks": [
+    {
+      "text": "Blog",
+      "url": "/blog",
+      "external": false
+    },
+    {
+      "text": "About",
+      "url": "/about",
+      "external": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/des.bakes/",
+      "external": true
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/desireevl",
+      "external": true
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/196f3d",
+      "external": true
+    }
+  ],
+
+  "showFooterAttribution": true
+}
