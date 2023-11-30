@@ -1,5 +1,5 @@
 ---
-title: Book folding tutorial
+title: Book Folding Tutorial
 description: 
 permalink: posts/{{ title | slug }}/index.html
 date: '2019-01-05'

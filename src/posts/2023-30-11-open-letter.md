@@ -1,9 +1,9 @@
 ---
 title: An Open Letter to Michael Bazzell
-date: '2023-11-30'
-tags: []
 decription: A Thank you for 'The Privacy, Security, and OSINT Show.
 permalink: posts/{{ title | slug }}/index.html
+date: '2023-11-30'
+tags: []
 ---
 
 
